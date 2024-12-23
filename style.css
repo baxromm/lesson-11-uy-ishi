@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2f4f4f;
+    font-family: Arial, sans-serif;
+    color: #000;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.title {
+    color: #fff;
+    background-color: #330000;
+    padding: 20px 0;
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 900px;
+    text-align: center;
+}
+
+.box {
+    border: 10px solid red;
+    margin: 20px auto;
